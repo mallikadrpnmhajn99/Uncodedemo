@@ -1,0 +1,147 @@
+@media(max-width:992px) {
+    .canvas {
+        display: block;
+    }
+
+    .boxo2 {
+        display: none;
+    }
+
+    .boxo3 {
+        display: none;
+    }
+
+    .baricon1 {
+        display: block;
+    }
+
+}
+
+@media(max-width:777px) {
+    .logo-darkbox {
+        height: 600px;
+    }
+
+    .logo-box2 {
+        margin: 50px 0px 0px 0px;
+    }
+
+    .logo-box4 {
+        margin: 50px 0px 0px 0px;
+    }
+
+    .ceo-comment1 h5 {
+        font-size: 18px;
+    }
+
+    .round-img {
+        height: 90px;
+        width: 90px;
+    }
+
+    .ceo-desbox1 h5 {
+        font-size: 18px;
+    }
+
+    .strat-top {
+        padding: 100px 0px 0px 0px;
+    }
+
+
+
+    .text-container1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .foot1 {
+        text-align: center;
+        padding: 20px 0px;
+        border-bottom: 1px solid #FFFFFF;
+    }
+
+    .foot2 {
+        text-align: center;
+        padding: 20px 0px;
+    }
+
+    .foot3 {
+        text-align: center;
+        padding: 20px 0px;
+    }
+
+
+    .scrol-carobox {
+        display: none;
+    }
+
+    .scrol-carobox-phn {
+        display: block;
+    }
+}
+
+
+@media(max-width:600px) {
+    .strat-top {
+        padding: 180px 0px 0px 0px;
+    }
+
+    .foot2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .foot2-1 {
+        text-align: center;
+        padding: 20px 0px;
+    }
+
+    .foot2-2 {
+        text-align: center;
+        padding: 20px 0px;
+    }
+}
+
+
+@media(max-width:450px) {
+    .pic_navbox1 {
+        display: none;
+    }
+
+    .ceo1 {
+        top: -130px;
+    }
+
+    .ceo-comment1 h5 {
+        font-size: 15px;
+    }
+
+    .strat-top {
+        padding: 200px 0px 0px 0px;
+    }
+
+    .text1 h5 {
+        font-size: 45px;
+    }
+
+    .text2 h5 {
+        font-size: 45px;
+    }
+
+    .text3 h5 {
+        font-size: 45px;
+    }
+}
+
+@media(max-width:370px) {
+    .pic_navbox1 {
+        display: none;
+    }
+
+    .ceo1 {
+        padding: 40px 20px;
+    }
+
+
+}
